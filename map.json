@@ -22,7 +22,6 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
          "visible":true,
          "width":90,
          "x":0,
